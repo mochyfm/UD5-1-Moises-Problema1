@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bab0058-5d9b-4d0c-9ecb-bdbac431a8be" name="Changes" comment="" />
+    <list default="true" id="1bab0058-5d9b-4d0c-9ecb-bdbac431a8be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/problema1/utils/GenericKiwi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problema1/utils/GenericKiwi.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
