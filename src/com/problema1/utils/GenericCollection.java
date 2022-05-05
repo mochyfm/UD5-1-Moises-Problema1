@@ -13,7 +13,6 @@ public class GenericCollection<T> {
             datos = new Object[DEFAULT_VALUE];
         }
 
-
         public void insert(T element, int position) {
             if (numValores == datos.length) {
                 Object []aux = datos;
